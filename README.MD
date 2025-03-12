@@ -14,4 +14,5 @@ URL: http://localhost:8069/odoo/apps
 pass: gvtg-sx9j-9gzf
 
 User:teguh@dinamika.ac.id
+
 Pass: LabFTI2025
